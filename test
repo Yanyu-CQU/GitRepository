@@ -1,3 +1,7 @@
 delete
 a new line on dev
-new ne line
+<<<<<<< HEAD
+new new line
+=======
+new new line
+>>>>>>> new
